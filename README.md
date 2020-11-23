@@ -1,4 +1,4 @@
-# [Saoussen]'s Notes
+# Saoussen's Notes
 ## Summary 
 
-This repository contains all of the notes taken by [Saoussen] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Saoussen](https://github.com/sawsanCS) for the Lighthouse Labs Web Development Bootcamp.
